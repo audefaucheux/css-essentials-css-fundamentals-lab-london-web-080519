@@ -17,6 +17,7 @@ img {
 
 a {
   margin: 0 auto;
+  width: 50px;
   padding-left: 10px;
   padding-right: 10px;
 }
