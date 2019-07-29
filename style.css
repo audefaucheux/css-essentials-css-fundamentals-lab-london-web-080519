@@ -15,9 +15,10 @@ img {
   width: 50%;
 }
 
-a {
+nav {
   text-align: center;
-  align-self: center;
+  display: block;
+  margin: 0 auto;
   padding-left: 10px;
   padding-right: 10px;
 }
