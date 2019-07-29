@@ -16,8 +16,7 @@ img {
 }
 
 a {
-  margin: 0 auto;
-  width: 50px;
+  text-align: center;
   padding-left: 10px;
   padding-right: 10px;
 }
