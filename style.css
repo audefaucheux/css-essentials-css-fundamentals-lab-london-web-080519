@@ -17,8 +17,8 @@ img {
 
 a {
   text-align: center;
-/*  display: block;*/
-  margin: 0 auto;
+  display: block;
+/*  margin: 0 auto;*/
   padding-left: 10px;
   padding-right: 10px;
 }
